@@ -1,10 +1,10 @@
 <?php
 /*
- * 張文相 Zhang Wenxiang - 個人 Blog
- * https://blog.reh.tw/
+ * 
+ * 
  *
- * 範例教學
- * https://blog.reh.tw/webpage-display-minecraft-server-status/
+ * 
+ * 
  */
 $host = "ignoreqq.ddns.net"; //設定伺服器網域或 IP
 $port = "25565"; //設定伺服器端口
